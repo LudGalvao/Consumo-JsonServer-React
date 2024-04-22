@@ -12,5 +12,5 @@ npm run android
 
 #### Iniciar o Json Server <h4>
 ~~~~node
-json-server --watch db.json
+json-server --watch db.jsonn
 ~~~~
